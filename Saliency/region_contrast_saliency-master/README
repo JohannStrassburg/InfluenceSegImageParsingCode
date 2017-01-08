@@ -1,0 +1,12 @@
+Creation of superpixel based on saliency
+USAGE:
+
+1. Use segment_images.m to create saliency matrices in folder 'segments' from images in folder 'Images'.
+
+2. Use heatsal.py to convert saliency matrices from folder 'segments' into heatmap-images in folder output.
+
+3. Use images from output folder to create superpixel (e.g. Graph-Based segmentation through implementation within SuperParsing).
+
+4. Use created superpixels in SuperParsing code (Attention: if created by SuperParsing code, do not forget to change input images back to normal (not heatmap images) to create segment-features etc.).
+
+

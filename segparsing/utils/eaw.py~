@@ -1,0 +1,14 @@
+import utils
+
+def run():
+   '''
+   '''
+   path = '/data/jstrassb/SuperParsing/SiftFlow/Experiments'
+   eaw_path = '/data/jstrassb/eaw_code'
+   utils.eaw_validation(path,eaw_path)
+
+if __name__ == '__main__':
+    '''
+    '''
+
+    run()

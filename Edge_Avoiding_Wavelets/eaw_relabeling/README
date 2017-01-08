@@ -1,0 +1,3 @@
+Use relabel to relabel superpixel created by Edge-Avoiding wavelets
+
+relabels EAW superpixels in the way, such that the array has #unique complete clusters

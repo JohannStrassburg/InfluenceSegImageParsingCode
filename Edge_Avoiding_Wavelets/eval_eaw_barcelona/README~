@@ -1,0 +1,6 @@
+Evaluation of combination of SuperParsing results with superpixels by Edge-Avoiding Wavelets
+
+eaw_ev: evaluates some configurations
+eval_results: Evaluation of Semantic Labels
+eval_results2: Evaluation of Geometric Labels
+

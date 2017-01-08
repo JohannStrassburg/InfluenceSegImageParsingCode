@@ -1,0 +1,6 @@
+Evaluation of combination of SuperParsing results with superpixels by Edge-Avoiding Wavelets (Sift Flow Dataset)
+
+eaw_ev: evaluates some configurations
+utils: Evaluation of Semantic Labels
+utils2: Evaluation of Geometric Labels
+

@@ -10,6 +10,7 @@ This code implements the test code used for the following paper:
 "On the Influence of Superpixel Methods for Image Parsing"
 Johann Strassburg, Rene Grzeszick, Leonard Rothacker, Gernot A. Fink
 Proc. International Conference on Computer Vision Theory and Applications (Visapp), 2015.
+http://patrec.cs.tu-dortmund.de/cms/en/home/Publications/index.php
 
 It was originally used in the master thesis:
 "Segmentierungsverfahren für Bildparsing in natürlichen Szenen", Johann Strassburg (2014)
